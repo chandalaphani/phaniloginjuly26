@@ -1,0 +1,20 @@
+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
+
+echo "# mygitrepojuly07" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git config --global user.name "chandalaphani"
+git config --global user.email "chanadalaphani@gmail.com"
+git branch -M main
+git remote add origin https://github.com/chandalaphani/mygitrepojuly07.git
+git push -u origin main
+
+
+echo "# devops10" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/chandalaphani/devops10.git
+git push -u origin main

@@ -1,0 +1,7 @@
+sonar.login=admin
+sonar.password=P@123hani
+sonar.projectKey=mysonarjob01
+sonar.projectName=mysonarjob01
+sonar.projectVersion=1.0
+sonar.sources=.
+sonar.java.binaries=/home/jenkins/workspace/mysonarjob01/target/classes
